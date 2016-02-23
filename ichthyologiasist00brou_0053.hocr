@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ichthyologiasist00brou/ichthyologiasist00brou_0053.png"; bbox 0 0 2592 3582; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 805 2967 1699 3124">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 805 2967 1699 3124">
+     <span class='ocr_line' id='line_1_1' title="bbox 805 2967 1699 3107; baseline 0.004 -50"><span class='ocrx_word' id='word_1_1' title='bbox 805 2977 1133 3063; x_wconf 44' lang='lat' dir='ltr'><em>fffixsflsstw</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1228 2967 1520 3107; x_wconf 31' lang='lat' dir='ltr'><em>jsstlffyfs&#39;ae:</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1537 2993 1699 3063; x_wconf 59' lang='lat' dir='ltr'><em>lss&#39;a).</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1327 3108 1337 3124; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 1327 3108 1337 3124; x_wconf 53' lang='lat' dir='ltr'><strong><em>s</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 115 3139 507 3178">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 115 3139 507 3178">
+     <span class='ocr_line' id='line_1_3' title="bbox 115 3139 507 3178; baseline 0.01 -4"><span class='ocrx_word' id='word_1_5' title='bbox 115 3139 242 3177; x_wconf 47' lang='lat' dir='ltr'><em>272„ss</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 252 3160 257 3169; x_wconf 57' lang='grc' dir='ltr'><em>ι</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 267 3142 308 3174; x_wconf 63' lang='lat' dir='ltr'><em>s).</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 342 3140 442 3176; x_wconf 47' lang='lat' dir='ltr'><em>[12de</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 454 3146 507 3178; x_wconf 56' lang='lat' dir='ltr'><em>(bl.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 49 146 2478 3231">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 49 146 2478 3231">
+     <span class='ocr_line' id='line_1_4' title="bbox 49 146 2478 3231; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 49 146 2478 3231; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
